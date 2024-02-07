@@ -1,6 +1,6 @@
 package miPrincipal;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class AppConjunto {
     

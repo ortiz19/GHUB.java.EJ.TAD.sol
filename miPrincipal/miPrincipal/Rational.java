@@ -1,4 +1,5 @@
 package miPrincipal;
+
 public class Rational{
 
     private int r[] = new int[2];
